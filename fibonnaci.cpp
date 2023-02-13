@@ -25,5 +25,6 @@ int main()
 	{
 		cout<<fib(i)<<" ";
 	}
+	cout<<endl;
 	return 0;
 }
